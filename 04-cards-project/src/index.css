@@ -58,18 +58,32 @@ body {
  }
 
  .center h3{
-   font-size: 20px;
+   font-size: 17px;
    font-weight: 500;
  }
 
  .center h3 span{
-   font-size: 10px;
+   font-size: 9px;
    font-weight: 400;
    color: #8b8b8b;
  }
 
  .center h2{
    font-size: 20px;
+ }
+
+ .center .tag{
+  display: flex;
+  margin-top: 10px;
+  gap: 5px;
+ }
+
+ .center .tag h4{
+  font-size: 14px;
+  background-color: #dadada;
+  color: #111;
+  font-weight: 500px;
+  padding: 3px 6px;
  }
 
  .bottom{
