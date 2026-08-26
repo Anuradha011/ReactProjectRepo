@@ -79,7 +79,7 @@ body {
  }
 
  .center .tag h4{
-  font-size: 14px;
+  font-size: 10px;
   background-color: #dadada;
   color: #111;
   font-weight: 500px;
@@ -93,3 +93,13 @@ body {
    border-top: 1px solid #b1b1b1;
    padding-top: 15px ;
 } 
+
+.bottom button{
+  background-color: black;
+  color : white;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  column-width: 600; 
+}
+
