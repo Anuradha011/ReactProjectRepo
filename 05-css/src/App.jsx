@@ -1,8 +1,11 @@
 import React from 'react'
+import button from './component/button'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <button />
+    </div>
   )
 }
 
