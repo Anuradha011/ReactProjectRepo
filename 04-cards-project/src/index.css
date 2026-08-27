@@ -80,7 +80,7 @@ body {
 
  .center .tag h4{
   font-size: 10px;
-  background-color: #dadada;
+  background-color: #2eb2e7;
   color: #111;
   font-weight: 500px;
   padding: 3px 6px;
@@ -90,7 +90,7 @@ body {
    display: flex;
    align-items: center;
    justify-content: space-between;
-   border-top: 1px solid #b1b1b1;
+   border-top: 1px solid #f7ed30;
    padding-top: 15px ;
 } 
 
